@@ -7,13 +7,14 @@ __dummy_idJasdf
 I
 )
 	driver_id	driver id"	driver_idJasdf
-åÀŞ¸ÏÏ‘åÀŞ¸ÏÏ‘1"$27bcb538-ed68-4ac8-8e5e-719f778d7064*öÁŞˆ‰Í·2ï
+åÀŞ¸ÏÏ‘åÀŞ¸ÏÏ‘1"$99da8d62-2875-4d20-a309-f61112ae2461*ÄŞĞá™®2‡
 Î
 driver_hourly_statsasdf	driver_id"
 	conv_rate"
 acc_rate"
-avg_daily_trips2€£:ëevent_timestamp*createdZLJ/Users/t1100412/seunggabi/study/study-feast/asdf/data/driver_stats.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢J/Users/t1100412/seunggabi/study/study-feast/asdf/data/driver_stats.parquet@
-åÀŞ˜§Ò‘åÀŞ˜§Ò‘R”
+avg_daily_trips2€£:ëevent_timestamp*createdZLJ/Users/t1100412/seunggabi/study/study-feast/asdf/data/driver_stats.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢J/Users/t1100412/seunggabi/study/study-feast/asdf/data/driver_stats.parquet@4
+åÀŞ˜§Ò‘ÄŞØÍƒ®
+¡Ùˆ™ø™ÄŞR”
 ‘
 ,feast.infra.online_stores.sqlite.SqliteTable"a
 E/Users/t1100412/seunggabi/study/study-feast/asdf/data/online_store.dbasdf_driver_hourly_statsbòevent_timestamp*createdZLJ/Users/t1100412/seunggabi/study/study-feast/asdf/data/driver_stats.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢J/Users/t1100412/seunggabi/study/study-feast/asdf/data/driver_stats.parquetªasdf
