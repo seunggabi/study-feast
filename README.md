@@ -1,5 +1,6 @@
 # study-feast
 - https://dailyheumsi.tistory.com/265
+- https://github.com/feast-dev/feast-workshop
 
 ### install
 ```shell
